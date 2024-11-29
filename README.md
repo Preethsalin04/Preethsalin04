@@ -1,9 +1,9 @@
-- 👨🏽‍💻 I am a BCA graduate currently pursuing my MCA.
-- 🌱 I’m currently exploring JAVA with a big interest in Backend and Data Structures and Algorithms.
+- 👨🏽‍💻 I am a BCA graduate currently pursuing MCA.
+- 🌱 Exploring JAVA with a big interest in Backend development and Data Structures and Algorithms.
 - 👀 My interest lies in Full stack development,UI/UX designing and Graphic Designing 
-- 💞️ Exploring new technologies and developing programming insights
+- 💞️ Exploring new technologies and developing programming insights.
 - 📫 How to reach me preethsalin@gmail.com
-- 😄 Pronouns:....
+- 😄 Pronouns:he/him
 
 
 <!---
