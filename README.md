@@ -3,7 +3,7 @@
 - 👀 My interest lies in Full stack development,UI/UX designing and Graphic Designing 
 - 💞️ Exploring new technologies and developing programming insights.
 - 📫 How to reach me preethsalin@gmail.com
-- 😄 Pronouns:he/him
+- 😄 Pronouns:  he/him
 
 
 <!---
